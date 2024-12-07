@@ -24,6 +24,11 @@
     margin: 1rem 0rem;
   }
   
+  a {
+    text-decoration: none;
+    color: #f4f1de;
+  }
+
   /* Header */
   .header {
     background-color: #555b6e;
